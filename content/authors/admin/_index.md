@@ -6,7 +6,7 @@ title: Kexin Que
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Research assistant at THBI
 
 # Organizations/Affiliations to show in About widget
 organizations:
